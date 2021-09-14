@@ -1,4 +1,4 @@
-## Simple command line weather request.
+## Simple command line weather request tool.
 
 ### This app shows the current weather at a particular location you choose.
 ### I have used the community open weather map api which is available for public access as free tier.
